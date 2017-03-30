@@ -1,0 +1,13 @@
+name: miniserver
+version: 0.1.0
+
+authors:
+  - Brian J. Cardiff <bcardiff@manas.tech>
+
+targets:
+  miniserver:
+    main: src/miniserver.cr
+
+crystal: 0.21.1
+
+license: MIT
